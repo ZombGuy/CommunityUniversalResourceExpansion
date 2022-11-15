@@ -1,4 +1,4 @@
-﻿### NPCBI (© Revan ©) ###
+﻿
 
 STATE_DAGESTAN = {
     id = 433

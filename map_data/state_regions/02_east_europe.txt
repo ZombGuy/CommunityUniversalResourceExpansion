@@ -1,4 +1,4 @@
-﻿### NPCBI (© Revan ©) ###
+﻿
 
 STATE_INGRIA = {
     id = 131

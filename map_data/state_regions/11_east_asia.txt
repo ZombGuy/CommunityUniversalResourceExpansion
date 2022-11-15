@@ -1,4 +1,4 @@
-﻿### NPCBI (© Revan ©) ###
+﻿
 
 STATE_DZUNGARIA = {
     id = 478

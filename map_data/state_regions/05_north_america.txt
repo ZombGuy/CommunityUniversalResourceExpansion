@@ -1,4 +1,4 @@
-﻿### NPCBI (© Revan ©) ###
+﻿
 
 STATE_DISTRICT_OF_COLUMBIA = {
     id = 265

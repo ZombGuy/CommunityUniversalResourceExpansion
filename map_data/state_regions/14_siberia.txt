@@ -1,4 +1,4 @@
-﻿### NPCBI (© Revan ©) ###
+﻿
 
 STATE_URAL = {
     id = 566
